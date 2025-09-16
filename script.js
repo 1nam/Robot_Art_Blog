@@ -1,19 +1,19 @@
 // List of art posts (update with your GitHub raw links and captions)
 const artPosts = [
   {
-    image: '1.png',
+    <img src="1.png" alt="image:">,
     caption: 'ufo logic'
   },
   {
-    image: '2.png',
+    <img src="2.png" alt="image:">,
     caption: 'scripts'
   },
     {
-    image: '',
+    <img src="1.png" alt="image:">,
     caption: 'Vintage Ouija Planchette'
   },
   {
-    image: '',
+    <img src="1.png" alt="image:">,
     caption: 'Vintage Ouija Board'
   }
 ];
