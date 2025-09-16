@@ -1,19 +1,19 @@
 // List of art posts (update with your GitHub raw links and captions)
 const artPosts = [
   {
-    image: 'https://github.com/1nam/Robot_Art_Blog/blob/main/1.png',
+    image: '1.png',
     caption: 'ufo logic'
   },
   {
-    image: 'https://github.com/1nam/Robot_Art_Blog/blob/main/2.png',
+    image: '2.png',
     caption: 'scripts'
   },
     {
-    image: 'https://github.com/1nam/Robot_Art_Blog/blob/main/Vintage%20Ouija%20Planchette.png',
+    image: 'Vintage%20Ouija%20Planchette.png',
     caption: 'Vintage Ouija Planchette'
   },
   {
-    image: 'https://github.com/1nam/Robot_Art_Blog/blob/main/board.png',
+    image: 'board.png',
     caption: 'Vintage Ouija Board'
   }
 ];
