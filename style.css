@@ -1,0 +1,49 @@
+/* General body and background */
+body {
+  margin: 0;
+  height: 100vh;
+  background-color: #000; /* flat black background */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-family: 'Arial', sans-serif;
+  color: #fff;
+}
+
+/* Header styling */
+header {
+  width: 100%;
+  text-align: center;
+  padding: 20px 0;
+  font-size: 2.5em;
+  text-shadow: 0 0 10px #00f, 0 0 20px #00f; /* blue glow effect */
+}
+
+/* Blog post container */
+.blog-post {
+  position: relative;
+  margin-top: 40px;
+  text-align: center;
+  max-width: 800px;
+  width: 90%;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: #111; /* slightly lighter black */
+  box-shadow: 0 0 30px rgba(0, 0, 255, 0.5); /* subtle blue glow */
+}
+
+/* Artwork image */
+.blog-post img {
+  width: 100%;
+  max-height: 600px;
+  object-fit: contain;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+/* Caption */
+.blog-post p {
+  font-size: 1.2em;
+  line-height: 1.5;
+}
