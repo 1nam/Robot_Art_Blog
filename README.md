@@ -1,1 +1,2 @@
-https://1nam.github.io/Robot_Art_Blog/
+Click DOT
+[.](https://1nam.github.io/Robot_Art_Blog/)
