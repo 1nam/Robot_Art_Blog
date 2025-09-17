@@ -1,2 +1,2 @@
-Click DOT
-[.](https://1nam.github.io/Robot_Art_Blog/_blank)
+
+[Robot_Art_Blog]([URL](https://1nam.github.io/Robot_Art_Blog)){:target="_blank"}
